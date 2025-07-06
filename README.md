@@ -17,7 +17,7 @@ Notes App With Flutter, Material 3, SQLite, Dependency Injections, DIO, Mocktail
 
 <h3 id="description">✍️ Description:</h3>
 
-<p>Programming anything on flutter is always a pleasure, but deal with Offline-first and a good amount set of tools - like GetX- is really good. I loved the way GetX handles everything from routing to state management. Lovely!</p>
+<p>Programming anything on flutter is always a pleasure, but deal with Offline-first and a good amount set of tools - like GetX - is really good. I loved the way GetX handles everything from routing to state management. Lovely!</p>
 
 <br />
 
